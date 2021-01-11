@@ -32,15 +32,16 @@ Working Basic Calculator:
 
 <img src='https://media.giphy.com/media/sHmXEU2fZyei95lSHV/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [QuickTime](https://support.apple.com/kb/DL837?locale=en_US).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I first had an issue with linking the labels with the rest of the code given that I wasnt aware that I needed to link each label and so the application crashed when I entered a number because it had an issue with an optional variable. 
+I also had an issue with github where Even though I was able to successfully connect my github to xcode. It would not push or pull nor would the files show up on github. This was odd given that everything seemed to have connected smoothly but that last part just didnt work, I have worked with gitLab before aswell so I know how to commit and pull items.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [David Ian Arizpe Arroyo]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
